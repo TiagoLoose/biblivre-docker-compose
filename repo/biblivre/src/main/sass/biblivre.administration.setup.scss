@@ -1,0 +1,17 @@
+@use "biblivre";
+
+
+#progress_popup {
+	fieldset {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+}
+
+.digital_media_restore {
+	display: none;
+	
+	.restore {
+		margin-bottom: 20px;
+	}
+}

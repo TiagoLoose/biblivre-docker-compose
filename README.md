@@ -36,9 +36,9 @@ Senha padrão: **abracadabra**
 
 ## Erro 404
 Caso receba um erro 404 ao tentar acessar, aguarde alguns minutos e execute o seguinte comando:
-	```sh
+
 	docker-compose restart
-	```
+
 O banco de dados pode demorar um pouco para inicializar e a aplicação não executa a primeira vez.
 
 ## Persistência dos Dados
